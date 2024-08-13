@@ -1,0 +1,17 @@
+Mean: 60.56
+SD: 38.77
+Max: 100.00
+Median: 70.00
+Min: 0.00
+
+                             Pass percentage                               Visualization
+Standard I/O - Test Case 1               0.8  [================================        ]
+Standard I/O - Test Case 2               0.7  [============================            ]
+Standard I/O - Test Case 3               0.7  [============================            ]
+Standard I/O - Test Case 4               0.8  [================================        ]
+Standard I/O - Test Case 5               0.7  [============================            ]
+Standard I/O - Test Case 6               0.5  [====================                    ]
+Standard I/O - Test Case 7               0.7  [============================            ]
+Standard I/O - Test Case 8               0.7  [============================            ]
+Standard I/O - Test Case 9               0.5  [====================                    ]
+Standard I/O - Test Case 10              0.7  [============================            ]

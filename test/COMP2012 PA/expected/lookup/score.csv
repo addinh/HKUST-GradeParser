@@ -1,0 +1,11 @@
+Student,SIS User ID,SIS Login ID,Score,Penalty,Total,Remarks
+"ALICE, Test",20123456,alice@connect.ust.hk,90.0,0.0,90.0,
+"BOB, Sample ",20234567,bob@connect.ust.hk,,,0,No submission
+"CHARLES, Example",20345678,charles@connect.ust.hk,100.0,0.0,100.0,
+"DESMOND, Tsoi",20456789,desmond@connect.ust.hk,70.0,0.0,70.0,
+"EXAM PLE, Student",20567900,example@connect.ust.hk,60.0,0.0,60.0,
+"EXAM-PLE, Another Student",20679011,exampleaa@connect.ust.hk,60.0,15.0,45.0,
+"FRANCISCO,",20790122,francisco@connect.ust.hk,100.0,0.0,100.0,
+"GAVIN, Brown",20901233,gavin@connect.ust.hk,80.0,0.0,80.0,
+"HARRY, Potter",21012344,harryab@connect.ust.hk,70.0,86.0,0.0,
+"II, Finland",21123455,ii@connect.ust.hk,0.0,0.0,0.0,

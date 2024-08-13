@@ -1,0 +1,14 @@
+Student,ID,SIS User ID,SIS Login ID,Section,Barcode (309929),Lab 1 (309930),Lab 2 (309931),PA1 (309932),PA2 (309933),Dummy assignment (309934),Midterm Exam (309934),Assignments Current Points,Assignments Final Points,Assignments Current Score,Assignments Unposted Current Score,Assignments Final Score,Assignments Unposted Final Score,Current Points,Final Points,Current Score,Unposted Current Score,Final Score,Unposted Final Score
+,,,,,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,,,,,,,,,,,,
+    Points Possible,,,,,1,3,3,100,100,0,100,(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only)
+"ALICE, Test",123456,20123456,alice@connect.ust.hk,L1,1,3,2.67,49,,,98,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"BOB, Sample ",123457,20234567,bob@connect.ust.hk,L1,0,2.33,1.67,74.5,,,67.25,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"CHARLES, Example",123458,20345678,charles@connect.ust.hk,L2,1,1.5,3.0,100,,,78.5,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"DESMOND, Tsoi",123459,20456789,desmond@connect.ust.hk,L3,1,3,3.0,100,,,90,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"EXAM PLE, Student",123460,20567900,example@connect.ust.hk,L2,0,2.5,2.33,68.5,,,61,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"EXAM-PLE, Another Student",123461,20679011,exampleaa@connect.ust.hk,L2,1,1.67,1.83,84.5,,,79.75,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"FRANCISCO,",123462,20790122,francisco@connect.ust.hk,L3,1,3,1.33,54,,,,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"GAVIN, Brown",123463,20901233,gavin@connect.ust.hk,L1,1,,0.0,87,,,89.75,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"HARRY, Potter",123464,21012344,harryab@connect.ust.hk,L3,1,3,1.0,0,,,20.5,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"II, Finland",123465,21123455,ii@connect.ust.hk,L1,1,3,3.0,96.5,,,73.25,49,49,98,98,32.67,98,49,49,98,98,32.67,98
+"Student, Test",150750,,8ca46256e575b4232b59e522252a12536b1539a0,"L1, L2, L3",,,0,,,,,,,,,,,,,,,,
