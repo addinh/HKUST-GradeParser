@@ -36,7 +36,7 @@ Before importing ZINC gradesheets, set the maximum score for scaling purpose. If
 select one of the available options to keep. The number of lab sessions should automatically update based on
 the number of ZINC gradesheets.
 
-![image](./images/selectionImg.png)
+![image](./images/duplicateImg.png)
 
 After importing all sheets, the total score and components can be viewed, and the new Canvas CSV is ready to be exported.
 
